@@ -68,7 +68,7 @@ Gosto de transformar ideias em experiências interativas, sempre aplicando boas 
 ## 📫 Contato
 
 📧 Email: alexandrenine@hotmail.com  
-🔗 LinkedIn: [Alexandre-Gomes](www.linkedin.com/in/alexandregomessantos)  
+🔗 LinkedIn: [Alexandre-Gomes](https://www.linkedin.com/in/alexandregomessantos/)
 🌐 GitHub: [Alegomes2](https://github.com/Alegomes2)
 
 ---
