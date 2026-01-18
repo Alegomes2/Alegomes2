@@ -1,93 +1,108 @@
-<!-- =========================== -->
-<!-- Começo do README do Perfil -->
-<!-- =========================== -->
-
-<div align="center">
-  <h1>Olá, eu sou o <b>Alexandre Gomes</b> 👋</h1>
-  <p>Desenvolvedor Front‑End | Apaixonado por UI, responsividade e código limpo 💻</p>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Front-End-Development-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Front-End Badge"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/GitHub-Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </p>
-
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Alegomes2&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alegomes2&layout=compact&theme=dark" alt="Top Languages"/>
-  </p>
-</div>
-
----
-
-## 🚀 Sobre Mim
-
-Sou desenvolvedor front‑end, focado em construir **interfaces limpas, responsivas e funcionais**.  
-Gosto de transformar ideias em experiências interativas, sempre aplicando boas práticas de **UI/UX** e lógica em **JavaScript**.
-
----
-
-## 🛠️ Tecnologias & Habilidades
-
-<div align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Demo |
-|---------|-----------|------|
-| **Menu‑Hamburguer-Responsivo** | Menu mobile responsivo com JS | [Demo](https://alegomes2.github.io/Menu-Hamburguer-Responsivo/) |
-| **Gerador-De-Senha** | Gerador de senhas seguras | [Demo](https://alegomes2.github.io/Gerador-De-Senha/) |
-| **Cronômetro Web** | Cronômetro interativo com JS | [Demo](https://alegomes2.github.io/Projeto-Cronometro/) |
-| **To-Do List** | Lista de tarefas interativa | [Demo](https://alegomes2.github.io/To-Do-List/) |
-| **Relógio Digital** | Relógio em tempo real | [Demo](https://alegomes2.github.io/Relogio.Digital/) |
-| **Calculadora Web** | Calculadora simples com JS | [Demo](https://alegomes2.github.io/ProjetoCalculadora/) |
-
----
-
-## 🌱 Hobbies & Interesses
-
-- 🎮 Jogos e gamificação de aprendizado  
-- 🎨 UI/UX e design responsivo  
-- 📚 Aprender novas linguagens e frameworks front‑end  
-- 💡 Projetos DIY e automação web
-
----
-
-## 📫 Contato
-
-📧 Email: alexandrenine@hotmail.com  
-🔗 LinkedIn: [Alexandre-Gomes](https://www.linkedin.com/in/alexandregomessantos/)
-
-🌐 GitHub: [Alegomes2](https://github.com/Alegomes2)
-
----
-
-## 📊 Contador de Visitas
+<h1 align="center">🚀 Alexandre Gomes</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alegomes2&color=blueviolet&label=Visitas+ao+perfil" alt="Contador de visitas"/>
+  <strong>Desenvolvedor Full Stack Júnior • React</strong><br/>
+  <sub>Front-end com React • Back-end com Node.js</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Alegomes2">
+    <img src="https://img.shields.io/github/followers/Alegomes2?style=social" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  <p>Obrigado por visitar meu perfil! 🤝🚀</p>
-</div>
+## ✨ Quem sou eu
 
-<!-- =========================== -->
-<!-- Fim do README do Perfil -->
-<!-- =========================== -->
+Sou **Desenvolvedor Full Stack Júnior com foco em React**, construindo aplicações completas com atenção à **experiência do usuário**, **componentização** e **integração com APIs REST**.
 
+Tenho base sólida em **Node.js**, **MongoDB** e **Prisma**, o que me permite desenvolver soluções do Front-end ao banco de dados.
 
+---
+
+## ⚙️ Tecnologias
+
+### 🎨 Front-end (React)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
+
+### 🧠 Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alegomes2&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alegomes2&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 💡 Cadastro de Usuários — Full Stack React
+
+Aplicação Full Stack com **React no Front-end**, integrada a uma **API REST em Node.js**, utilizando **MongoDB + Prisma** para persistência de dados.
+
+**Destaques técnicos:**
+
+* Componentização e reutilização de componentes
+* Consumo e tratamento de dados via API
+* Arquitetura organizada
+* Integração completa Front-end / Back-end
+
+🔗 [https://github.com/Alegomes2/devclu-cadastro-usuario](https://github.com/Alegomes2/devclu-cadastro-usuario)
+
+---
+
+## 📚 Evoluindo constantemente
+
+* Boas práticas em React
+* Integração com APIs
+* Organização de projetos Front-end
+* Autenticação e segurança
+* Versionamento com Git
+
+---
+
+<p align="center">
+  <strong>💙 React no Front-end • 🚀 Node.js no Back-end</strong>
+</p>
+
+* Autenticação com JWT
+* Testes automatizados
+* Docker
+* Deploy de aplicações Full Stack
+
+---
+
+<p align="center">
+  <strong>🚀 Construindo soluções completas, do front ao banco de dados.</strong>
+</p>
