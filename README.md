@@ -1,108 +1,65 @@
-<h1 align="center">🚀 Alexandre Gomes</h1>
+## 👋 Olá, eu sou Alexandre Gomes
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack Júnior • React</strong><br/>
-  <sub>Front-end com React • Back-end com Node.js</sub>
-</p>
+🚀 **Desenvolvedor Full Stack Júnior** com experiência prática no desenvolvimento de aplicações web do **Frontend ao Backend**, atuando em projetos reais com foco em **organização de código, performance e integração entre camadas**.
 
-<p align="center">
-  <a href="https://github.com/Alegomes2">
-    <img src="https://img.shields.io/github/followers/Alegomes2?style=social" />
-  </a>
-</p>
+Atuo com **JavaScript moderno**, **React**, **Node.js**, **APIs REST** e bancos de dados **relacionais e não relacionais**, sempre buscando escrever código limpo, reutilizável e alinhado às boas práticas do mercado.
 
 ---
 
-## ✨ Quem sou eu
+## 🛠️ Tecnologias & Ferramentas
 
-Sou **Desenvolvedor Full Stack Júnior com foco em React**, construindo aplicações completas com atenção à **experiência do usuário**, **componentização** e **integração com APIs REST**.
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-Tenho base sólida em **Node.js**, **MongoDB** e **Prisma**, o que me permite desenvolver soluções do Front-end ao banco de dados.
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge)
 
----
+### Bancos de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff)
 
-## ⚙️ Tecnologias
-
-### 🎨 Front-end (React)
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-</p>
-
-### 🧠 Back-end
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-</p>
-
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+### Dev & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux_(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 
 ---
 
-## 📊 GitHub em números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alegomes2&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alegomes2&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Projeto em Destaque
-
-### 💡 Cadastro de Usuários — Full Stack React
-
-Aplicação Full Stack com **React no Front-end**, integrada a uma **API REST em Node.js**, utilizando **MongoDB + Prisma** para persistência de dados.
-
-**Destaques técnicos:**
-
-* Componentização e reutilização de componentes
-* Consumo e tratamento de dados via API
-* Arquitetura organizada
-* Integração completa Front-end / Back-end
-
-🔗 [https://github.com/Alegomes2/devclu-cadastro-usuario](https://github.com/Alegomes2/devclu-cadastro-usuario)
+## 💻 O que faço na prática
+- Desenvolvimento de **interfaces responsivas e componentizadas**
+- Integração de **Frontend com APIs REST**
+- Criação de **APIs RESTful** com Node.js e Express
+- Implementação de **CRUD**, **validações** e **autenticação com JWT**
+- Integração com **MongoDB** e **PostgreSQL**
+- Organização de projetos em padrão **MVC**
+- Padronização de ambientes com **Docker**
+- Versionamento e colaboração com **Git & GitHub**
 
 ---
 
-## 📚 Evoluindo constantemente
+## 📂 Projetos em Destaque
+🔹 **DevBurger** – Aplicação Full Stack (React + Node.js + MongoDB/PostgreSQL)  
+🔹 **Sistema de Cadastro de Usuários** – CRUD + Autenticação  
+🔹 **Projetos Front-end** – Landing Pages, Dashboards e Interfaces Responsivas  
 
-* Boas práticas em React
-* Integração com APIs
-* Organização de projetos Front-end
-* Autenticação e segurança
-* Versionamento com Git
-
----
-
-<p align="center">
-  <strong>💙 React no Front-end • 🚀 Node.js no Back-end</strong>
-</p>
-
-* Autenticação com JWT
-* Testes automatizados
-* Docker
-* Deploy de aplicações Full Stack
+👉 Todos os projetos estão disponíveis nos repositórios abaixo ⬇️
 
 ---
 
-<p align="center">
-  <strong>🚀 Construindo soluções completas, do front ao banco de dados.</strong>
-</p>
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Júnior (Frontend, Backend ou Full Stack)**, contribuindo em projetos reais, evoluindo tecnicamente e gerando valor para o produto e para o time.
+
+---
+
+## 🌐 Vamos nos conectar?
+🔗 **LinkedIn:** https://www.linkedin.com/in/alexandregomessantos  
+📂 **Portfólio/GitHub:** https://github.com/Alegomes2
