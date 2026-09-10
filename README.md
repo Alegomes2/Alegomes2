@@ -10,18 +10,23 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack
 
 > 🚀 **Construir. Aprender. Resolver problemas. Evoluir.**
 
+---
+
 ## 🧠 Sobre mim
 
 * 💻 Desenvolvimento **Full Stack**
 * ⚛️ Desenvolvimento de interfaces modernas com **React e TypeScript**
 * 🔧 Construção de **APIs REST com Node.js e Express**
 * 🗄️ Desenvolvimento com **PostgreSQL, MongoDB e ORMs**
+* 🐳 Utilização de **Docker e containers** para ambientes de desenvolvimento
 * 🏗️ Interesse em **arquitetura, escalabilidade e qualidade de código**
 * 🤖 Estudando **Inteligência Artificial, AI Agents e automações**
 * 🔄 Desenvolvimento de soluções para **automatização de processos**
 * 📚 Em constante evolução através de projetos práticos e estudos
 
-## 🛠️ Tech Stack
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
 
@@ -61,21 +66,22 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack
 
 **n8n • Automação de processos • AI Agents • Integração com APIs • Inteligência Artificial**
 
-### Tools & Workflow
+### DevOps & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-**Git • GitHub • VS Code • Insomnia • Beekeeper Studio**
+**Docker • Git • GitHub • VS Code • Insomnia • Beekeeper Studio**
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-### 🤖 FlowAI SaaS
+## 🤖 FlowAI SaaS
 
 **Plataforma de gestão e automação inteligente em desenvolvimento.**
 
@@ -83,11 +89,11 @@ Projeto SaaS criado com o objetivo de centralizar processos de gestão e, futura
 
 O projeto utiliza uma arquitetura modular baseada em funcionalidades, priorizando **componentização, reutilização de código, tipagem, validação e manutenibilidade**.
 
-**Tecnologias:**
+### Tecnologias
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `React Router` `React Hook Form` `Zod`
 
-**Principais funcionalidades desenvolvidas:**
+### Principais funcionalidades desenvolvidas
 
 * 👥 Gerenciamento de clientes
 * 🔎 Busca e filtros
@@ -99,17 +105,19 @@ O projeto utiliza uma arquitetura modular baseada em funcionalidades, priorizand
 
 🔗 **[Ver projeto no GitHub](https://github.com/Alegomes2/flowai-saas)**
 
-### 🍔 DevBurguer
+---
+
+## 🍔 DevBurguer
 
 **Aplicação Full Stack para gerenciamento de pedidos.**
 
 Projeto desenvolvido durante minha formação Full Stack, colocando em prática conceitos de **frontend, backend, banco de dados, autenticação e integração entre diferentes camadas da aplicação**.
 
-**Tecnologias:**
+### Tecnologias
 
-`React` `JavaScript` `Node.js` `Express` `PostgreSQL` `Sequelize` `JWT` `Axios`
+`React` `JavaScript` `Node.js` `Express` `PostgreSQL` `Sequelize` `JWT` `Axios` `Docker`
 
-**Principais conceitos aplicados:**
+### Principais conceitos aplicados
 
 * 🔐 Autenticação e autorização
 * 🔑 JWT
@@ -117,13 +125,14 @@ Projeto desenvolvido durante minha formação Full Stack, colocando em prática 
 * 👥 Gerenciamento de usuários
 * 🍔 Produtos e categorias
 * 🗄️ PostgreSQL
+* 🐳 Docker e ambientes containerizados
 * 🔄 Migrations e Seeders
 * 🛡️ Proteção de rotas
 * 🔗 Integração Frontend + Backend
 
 ---
 
-## 📈 Atualmente estudando
+# 📈 Atualmente estudando
 
 Meu foco atual está em evoluir minhas habilidades e construir projetos cada vez mais próximos de aplicações reais.
 
@@ -132,21 +141,26 @@ Frontend       ███████████████████░░  
 Backend        ████████████████░░░░░  Node.js / APIs REST
 Database       ███████████████░░░░░░  PostgreSQL / MongoDB
 Architecture   █████████████░░░░░░░░  Sistemas escaláveis
+DevOps         ████████████░░░░░░░░░  Docker / Containers
 Automation     ████████████░░░░░░░░░  n8n / Workflows
 AI             ███████████░░░░░░░░░░  AI Agents / Integrações
 ```
 
-## 🎯 Objetivo profissional
+---
 
-Busco oportunidades para atuar como **Desenvolvedor Full Stack**, contribuindo para projetos reais enquanto continuo evoluindo tecnicamente.
+# 🎯 Objetivo profissional
+
+Busco oportunidades para atuar como **Desenvolvedor Full Stack**, contribuindo com projetos reais enquanto continuo evoluindo tecnicamente.
 
 Tenho especial interesse em ambientes onde possa trabalhar com:
 
-**Full Stack • React • TypeScript • Node.js • APIs • SaaS • Automação • Inteligência Artificial**
+**Full Stack • React • TypeScript • Node.js • APIs • SaaS • Docker • Automação • Inteligência Artificial**
+
+Meu objetivo é unir **desenvolvimento de software, automação e IA** para criar soluções que resolvam problemas reais e gerem valor para negócios e usuários.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -158,7 +172,7 @@ Tenho especial interesse em ambientes onde possa trabalhar com:
 
 ---
 
-## 🐍 My GitHub Contributions
+# 🐍 My GitHub Contributions
 
 <picture>
   <source
@@ -178,7 +192,7 @@ Tenho especial interesse em ambientes onde possa trabalhar com:
 
 ---
 
-## 📫 Vamos conversar?
+# 📫 Vamos conversar?
 
 <div align="center">
 
